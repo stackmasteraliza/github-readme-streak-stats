@@ -230,9 +230,9 @@ Heroku is another great option for hosting the files. All features are supported
 
 <details>
   <summary><b>Instructions for deploying to Heroku (Paid)</b></summary>
-  
+
 ### Step-by-step instructions for deploying to Heroku
-  
+
 1. Sign in to **Heroku** or create a new account at <https://heroku.com>
 2. Visit [this link](https://github.com/settings/tokens/new?description=GitHub%20Readme%20Streak%20Stats) to create a new Personal Access Token (no scopes required)
 3. Scroll to the bottom and click **"Generate token"**
